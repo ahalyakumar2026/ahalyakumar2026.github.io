@@ -19,7 +19,7 @@
 
 const SITE_DATA = {
   name: "Ahalya Kumar",
-  tagline: "Product Manager at Doto Health",
+  tagline: "Building Products For Social Good",
   headshot: "images/headshot/ahalya-headshot.jpg",
   linkedin: "https://www.linkedin.com/in/ahalya-kumar-4a6444191",
   email: "ahalyakumar20@outlook.com",
