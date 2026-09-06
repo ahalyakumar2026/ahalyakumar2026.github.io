@@ -26,7 +26,7 @@ const SITE_DATA = {
 
   about: {
     paragraphs: [
-      "I'm a Product Manager at Doto Health, a digital health tech startup incubated at IIT Bombay and headquartered in Pune, where I build CareMother: an AI co-pilot platform for pregnancy and birthing care. My work spans taking products from 0 to 1, from problem statement to launch to scale, as well as improving and managing the products already in the hands of clinicians and patients.",
+      "I'm a Product Manager at Doto Health, a digital health tech startup incubated at IIT Bombay and headquartered in Pune, where I built Nurtura: an AI co-pilot platform for birthing and postpartum care. My work spans taking products from 0 to 1, from problem statement to launch to scale, as well as improving and managing the products already in the hands of clinicians and patients.",
       "I also lead our AI innovation cell, where I've been building out the team from the ground up. Right now we're tackling two hard problems: predicting preterm birth and predicting outcomes from CTG (cardiotocography) data, using AI to help catch risk earlier in pregnancy care.",
       "I recently won the UNICEF Femtech Ventures grant, securing $100K in funding, and represented Doto Health at an international forum in Pretoria, South Africa.",
       "Before Doto Health, I worked at Wadhwani AI, building AI products across radiology, cardiology, oncology, and dermatology. It was my first real exposure to using technology for social good, and the place that shaped my belief in incremental change management: quality care improves only when everyone across the system is on board, not just the technology."
